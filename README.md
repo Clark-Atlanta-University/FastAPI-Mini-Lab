@@ -1,3 +1,8 @@
+Jeremiah Jude
+Professor Sazegar
+CIS 301
+11/8/26
+
 #FastAPI Lab: Book Managemen API
 
 This project implements a FastAPI server and a Python client to manage
